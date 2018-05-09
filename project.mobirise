@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The International Bhakti Yoga Society",
-    "currentPage": "page1.html",
+    "currentPage": "rsvp.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -721,7 +721,7 @@
         }
       ]
     },
-    "page1.html": {
+    "rsvp.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "RSVP",
